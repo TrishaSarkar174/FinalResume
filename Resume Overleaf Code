@@ -118,7 +118,7 @@
 %---- End of Packages and Functions ------
 
 %-------------------------------------------
-%%%%%%  CV STARTS HERE  %%%%%%%%%%%
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%
 %%%%%% DEFINE ELEMENTS HERE %%%%%%%
 \newcommand{\name}{Trisha Sarkar} % Your Name
 \newcommand{\course}{B.s.c honors in CSE} % Your Program
@@ -184,12 +184,14 @@
 \section{\textbf{Technical Skills and Interests}}
  \begin{itemize}[leftmargin=0.1in, label={}]
     \small{\item{
-     \textbf{Languages}{: C, C++, JAVA, Python, HTML, CSS, JavaScript } \\
+     \textbf{Programming Languages}{: C, C++, JAVA, Python } \\
      \textbf{Developer Tools}{: Visual Studio, Git, Bootstrap } \\
      \textbf{Frameworks}{: React.js } \\
      \textbf{Cloud/Databases}{: MySQL} \\
      \textbf{Soft Skills}{: Patience, Leadership, Creativity, Time Management, Adaptability, Communication, Problem Solving, Interpersonal Skills} \\
-     \textbf{Software Tools}{: Slack, Trello, Overleaf, Visual Paradigm, Draw.io, Git } \\
+     \textbf{Software Tools}{: Xampp,  Code::block, Slack, Trello, Overleaf, Visual Paradigm, Draw.io} \\
+     \textbf{Web Development Tools}{: HTML, CSS, JavaScript, Django  } \\
+     \textbf{Microsoft Office Packages}{: MS word, MS powerpoint, MS excel } \\
      \textbf{Areas of Interest}{: Networking and Communication, Bioinformatics, Mobile Application Development} \\
     }}
  \end{itemize}
@@ -202,28 +204,37 @@
 \resumeSubHeadingListStart
 
     \resumeProject
-      {Project Name} %Project Name
+      {Event Management System} %Project Name
       {Project description(Your input in the project)} %Project Name, Location Name
       {Event dates} %Event Dates
 
       \resumeItemListStart
-        \item {Tools \& technologies used: xxx,xxx}
+        \item {Tools \& technologies used: HTML, CSS, Bootstrap, MySQL, PHP}
         \item {More description on the project(The output you achieved by working on the project)}
     \resumeItemListEnd
     \vspace{-2mm}
     
     \resumeProject
-      {Project Name} %Project Name
-      {Project description(Your input in the project)} %Project Name, Location Name
-      {Event dates} %Event Dates
+      {Fire Fighting Car using Arduino} %Project Name
+      {An Arduino car which detects fire nearby and Turn out fire using water from water tank} %Project Name, Location Name
+      {13-03-2024} %Event Dates
 
       \resumeItemListStart
-        \item {Tools \& technologies used: xxx,xxx}
+        \item {Tools \& technologies used: Arduino}
         \item {More description on the project(The output you achieved by working on the project)}
     \resumeItemListEnd
     \vspace{-2mm}
     
-      
+       \resumeProject
+      {Outcome Based Education System Website} %Project Name
+      {Project description(Your input in the project)} %Project Name, Location Name
+      {21-04-2024} %Event Dates
+
+      \resumeItemListStart
+        \item {Tools \& technologies used: HTML, CSS, JavaScript, Bootstrap, Django, MySQL, Git}
+        \item {More description on the project(The output you achieved by working on the project)}
+    \resumeItemListEnd
+    \vspace{-2mm}
   \resumeSubHeadingListEnd
 \vspace{-5.5mm}
 
@@ -234,7 +245,7 @@
 \section{\textbf{Co-Curricular Activities}}
 \vspace{-0.4mm}
 \resumeItemListStart
-        \item {Music, Painting, Gardening}
+        \item {Music, Yoga, Graphic Design, Painting}
     \resumeItemListEnd
 \vspace{-5mm}
 
@@ -256,6 +267,22 @@
 \section{\textbf{Achievements}}
 \vspace{-0.4mm}
 \resumeSubHeadingListStart
+\resumePOR{Certified for completion of Responsive Web Design } % Award
+    {From FreeCodeCamp} % Event
+    {2023} %Event Year
+
+\resumePOR{Certified for completion of JavaScript Algorithms and Data Structures } % Award
+    {From FreeCodeCamp} % Event
+    {2023} %Event Year
+
+\resumePOR{Certified for completion of Relational Database } % Award
+    {From FreeCodeCamp} % Event
+    {2024} %Event Year  
+
+\resumePOR{Certified for completion of Scientific Computing with Python } % Award
+    {From FreeCodeCamp} % Event
+    {2024} %Event Year 
+
 \resumePOR{Certified for completion of MySQL } % Award
     {From Great Learning} % Event
     {2024} %Event Year
@@ -270,18 +297,15 @@
 
 \resumePOR{Certified for completion of Microsoft Word Tutorial } % Award
     {From Great Learning} % Event
-    {2024} %Event Year
-   
-\resumePOR{Certified for completion of Responsive Web Design } % Award
-    {From FreeCodeCamp} % Event
-    {2023} %Event Year
+    {2024} %Event Year 
 
-\resumePOR{Certified for completion of JavaScript Algorithms and Data Structures } % Award
-    {From FreeCodeCamp} % Event
-    {2023} %Event Year
+\resumePOR{Certified for completion of Presentation and Public Speaking } % Award
+    {From 10 Minute School} % Event
+    {2023} %Event Year    
     
 \resumeSubHeadingListEnd
 \vspace{-5mm}
+
 
 
 
